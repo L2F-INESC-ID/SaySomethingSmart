@@ -1,4 +1,4 @@
-_NOTE: next to 'src', add the contents of the tar.bz2 file available at:
+NOTE: next to 'src', add the contents of the tar.bz2 file available at:
 https://drive.google.com/file/d/13KqMs3-CR7-NsJRtv-zlXhCglKliAscY/view?usp=sharing
 
 
